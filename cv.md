@@ -4,6 +4,8 @@
 **Contacts for communication:**
 * E-mail: lexx8800@gmail.com
 * GitHub: [LeXX8800](https://github.com/LeXX8800)
+* Discord: [LeXX8800#9505](https://discordapp.com/users/LeXX8800#9505)
+* Discord (rs-scool): [Aleksandr Gurianov (@LeXX8800)](https://discordapp.com/users/LeXX8800#9505)
 * Telegram: [@LeXX8800](https://t.me/LeXX8800)
 
 **About me:**
@@ -17,14 +19,21 @@ Today I am back in the IT field, with renewed vigor and a great desire to learn 
 
 * HTML
 * CSS
-* JS (basic)
+* JavaScript (basic)
 * GIT (GITHUB)
 * VSCODE
 * WINDOWS
 * GNU/LINUX
 
 
-Примеры кода
+**Code Example:**
+
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
 Образование (включая пройденные курсы и тренинги)
 Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
