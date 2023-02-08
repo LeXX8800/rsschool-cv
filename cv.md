@@ -34,6 +34,15 @@ function multiply(a, b){
 }
 ```
 
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
+**Work Experience:**
+
+For many years I have been working in senior positions in trade and sales.
+
+**Education:**
+
+* Technical education (4 years), faculty : Software Developer (end)
+* [CS50](https://cs50.harvard.edu/college/2023/spring/) (in progress)
+* [RS-SCOOL - JS / FRONT-END. STAGE 0 (RU)](https://rs.school/js-stage0/) (in progress)
+
+
 Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
