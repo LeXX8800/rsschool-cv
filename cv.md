@@ -45,7 +45,7 @@ function multiply(a, b){
 **Work Experience:**
 
 For many years I have been working in senior positions in trade and sales.  
-My first project is to create my own CV using Markdown markup (https://lexx8800.github.io/rsschool-cv/cv)
+My first project is to create my own [CV](https://lexx8800.github.io/rsschool-cv/cv) using Markdown markup.
 
 **Education:**
 
@@ -55,6 +55,6 @@ My first project is to create my own CV using Markdown markup (https://lexx8800.
 
 **English:**
 
-[EF SET - Pre-Intermediate (A2)](https://www.efset.org/)
+[EF SET](https://www.efset.org/): Pre-Intermediate (A2).
 
 ---
