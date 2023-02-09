@@ -4,7 +4,7 @@
 ---
 
 **Contacts for communication:**
-* E-mail: lexx8800@gmail.com
+* E-mail: [lexx8800@gmail.com](mailto:lexx8800@gmail.com)
 * GitHub: [LeXX8800](https://github.com/LeXX8800)
 * Discord: [LeXX8800#9505](https://discordapp.com/users/LeXX8800#9505)
 * Discord (rs-scool): [Aleksandr Gurianov (@LeXX8800)](https://discordapp.com/users/LeXX8800#9505)
