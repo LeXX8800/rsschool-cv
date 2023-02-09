@@ -45,6 +45,7 @@ function multiply(a, b){
 **Work Experience:**
 
 For many years I have been working in senior positions in trade and sales.
+My first project is to create my own CV using Markdown markup (https://lexx8800.github.io/rsschool-cv/cv)
 
 **Education:**
 
